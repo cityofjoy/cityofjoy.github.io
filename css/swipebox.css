@@ -2,6 +2,11 @@
   overflow: hidden!important;
 }
 
+.navbar-collapse agileits w3layouts collapse hover-effect ul li ul { position:absolute; display:none;}
+.navbar-collapse agileits w3layouts collapse hover-effect ul li ul li { float:none;}
+.navbar-collapse agileits w3layouts collapse hover-effect ul li ul li a { border-right:none; border-top:1px dotted #ccc; background:#f5f5f5;}
+.navbar-collapse agileits w3layouts collapse hover-effect ul li:hover ul{ display:block; }
+
 #swipebox-overlay img {
   border: none!important;
 }
